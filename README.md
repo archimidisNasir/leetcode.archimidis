@@ -8,4 +8,4 @@ If you have any questuins or comments, please don't hesitate to contact me @,
 nasir >you know what to put here< mybdtechies >you know what to put here as well< com
 
 Thanks. 
-[Please ignore ameture mistake, if any.]
+** Please ignore amateur mistake, if any.
