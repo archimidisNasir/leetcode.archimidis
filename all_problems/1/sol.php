@@ -32,16 +32,15 @@ class Solution {
             $arr_nums[$nums[$i]] +=1;
             $arr_index[$nums[$i]] = $i;
         }
-        
-        
-        
+
+
         for($i=0; $i<count($nums); $i++)
         {
             if($target)
             $target-$arr_nums[$nums[$i]];
         }
         */
-        
+
     }
 }
 
