@@ -1,5 +1,5 @@
 
-Runtime: 58 ms
+Runtime: 58 milliseconds
 Memory Usage: 19.4 MB
 
 
